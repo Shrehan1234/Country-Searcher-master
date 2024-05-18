@@ -9,7 +9,7 @@ const Footer = ({ }) => {
                         <img src="/4830734.ico" alt="Icon" className="nav-icon" />
                         <h3>Country Searcher</h3>
                     </div>
-                    <p>Made With  By <a href="https://zero.is-a.dev" className='text-cyan'>Shrehan</a></p>
+                    <p>Made  By <a href="https://zero.is-a.dev" className='text-cyan'>Shrehan</a></p>
                 </div>
             </footer>
         </>
